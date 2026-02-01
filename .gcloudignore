@@ -1,0 +1,43 @@
+# Git
+.git
+.gitignore
+
+# Dependencies
+node_modules
+
+# Next.js
+.next
+out
+
+# Build
+build
+dist
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tests
+tests
+coverage
+*.test.ts
+*.test.tsx
+
+# Google Cloud SDK (if present)
+google-cloud-sdk
+
+# Misc
+*.md
+*.log
+*.tar.gz
